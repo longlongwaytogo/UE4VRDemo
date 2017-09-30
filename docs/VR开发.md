@@ -2,8 +2,8 @@
 
 # UE4下的VR开发
 -- 
-author:longlongwaytogo
-link:[]() 
+author:longlongwaytogo  
+link:[](https://github.com/longlongwaytogo/UE4VRDemo/blob/gitHub_master/docs/VR%E5%BC%80%E5%8F%91.md)   
 ---
 本文主要通过一个案例，讲述UE4下使用HTC Vive设备，对VR项目的开发过程。
 
