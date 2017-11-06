@@ -87,7 +87,7 @@ link:
 
 ![](res/VRDemo_Calc_Spline.png)
 
-完成以上蓝图，其工作量也不小，但不是看不到射线，还有一个步骤要做，添加mesh:
+完成以上蓝图，其工作量也不小，但是看不到射线，还有一个步骤要做，添加mesh:
 可以通过3max制作一个Cylinder,导入UE中或使用系统的BeamMesh，并创建一个绿色材质：
 ![](res/VRDemo_Cylinder_mat.png)   
 spline Mesh 绑定模型：Cylinder
